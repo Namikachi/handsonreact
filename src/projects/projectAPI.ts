@@ -64,4 +64,4 @@ const projectAPI = {
 	}
 }
 
-export default projectAPI;
+export { projectAPI };
